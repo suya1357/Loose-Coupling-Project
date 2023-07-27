@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.intheeast.export.ExportMetadata;
 import com.intheeast.fetch.FetchMetadata;
-
+//Modified
 public class PDFMetadataCollector implements MetadataCollector {
 	
 	private FetchMetadata fetchMetadata;
