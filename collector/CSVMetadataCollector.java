@@ -1,5 +1,9 @@
 package com.intheeast.collector;
+<<<<<<< HEAD
 //suya
+=======
+//come
+>>>>>>> 7228743443c75742b374749494f8dddfff2b3358
 import java.util.List;
 
 import com.intheeast.export.ExportMetadata;
